@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ad Page</title>
+    <style>
+        /* كود لضمان ظهور الإعلان في المنتصف تماماً وبدون هوامش */
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: transparent;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+    <iframe data-aa='2429742' src='https://ad.a-ads.com/2429742?size=320x50' 
+            scrolling='no' 
+            style='width:320px; height:50px; border:0px; padding:0; overflow:hidden; background-color: transparent;' 
+            allowtransparency='true'>
+    </iframe>
+</body>
+</html>
